@@ -1,0 +1,27 @@
+Def: the rapid application development or RAD model is based on prototyping and iterative model with no specific planning.
+In general RAD approach to software development means putting lesser emphasis on planning tasks and more emphasis on development and coming up with a prototype.
+RAD puts clear focus on prototyping, which acts as an alternative to design specifications.
+This means that RAD works well wherever there's a greater focus on user interface rather than non-GUI programs.
+The RAD model includes agile method and spiral model.
+
+Below phases are in rapid application development (RAD) model: 
+
+1.Business modeling
+2.Data modeling
+3.Process modeling
+4.Application generation
+5.Testing and turnover
+
+Advantages of RAD Model	
+1.Flexible and adaptable to changes.
+2.It is useful when you have to reduce the overall project risk.
+3.It is adaptable and flexible to changes.
+4.It is easier to transfer deliverables as scripts, high-level abstractions and intermediate codes are used.
+5.Due to prototyping in nature, there is a possibility of lesser defects.
+
+Disadvantages of RAD Model
+1.It can’t be used for smaller projects.
+2.Not all application is compatible with RAD.
+3.If developers are not committed to delivering software on time, RAD projects can fail.
+4.Reduced features due to time boxing, where features are pushed to a later version to finish a release in short period.
+5.Requires highly skilled designers or developers
